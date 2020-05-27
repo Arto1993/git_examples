@@ -1,5 +1,9 @@
 #include <iostream>
 
+void First() {
+	std::cout << "First";
+}
+
 void My_Foo() {
 	std::cout << "Second commit";
 }
