@@ -1,7 +1,7 @@
 #include <iostream>
 
-void First() {
-	std::cout << "First";
+void Second() {
+	std::cout << "Second";
 }
 
 void My_Foo() {
