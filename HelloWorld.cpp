@@ -9,6 +9,6 @@ void My_Foo() {
 }
 
 int main() {
-	std::cout << "taza versiya!" << std::endl;
+	std::cout << "taza versiya1!" << std::endl;
 	return 0;
 }
