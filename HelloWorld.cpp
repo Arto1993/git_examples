@@ -9,6 +9,6 @@ void My_Foo() {
 }
 
 int main() {
-	std::cout << "Hello Wosdgsdfsgdfsgdfsgdfgfdsgrdgdgdg!" << std::endl;
+	std::cout << "ARTASHES!" << std::endl;
 	return 0;
 }
